@@ -1,0 +1,6 @@
+./dist
+./node_modules
+./SASS/
+./HTML/
+./JavaScript/
+.sass-cache
