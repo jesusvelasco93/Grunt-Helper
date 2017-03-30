@@ -1,6 +1,11 @@
-./dist
-./node_modules
-./SASS/
-./HTML/
-./JavaScript/
+/dist
+/node_modules
+/SASS/
+/HTML/
+/JavaScript/
 .sass-cache
+dest
+dest.map
+tasks
+src
+src.map

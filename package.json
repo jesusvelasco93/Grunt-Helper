@@ -1,0 +1,21 @@
+{
+  "name": "desarrollocodigo",
+  "version": "1.0.0",
+  "description": "ayuda desarrollo codigo",
+  "main": "index.html",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-obfuscator": "^2.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^2.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-html-validation": "^0.1.18"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesus Velasco",
+  "license": "ISC"
+}
